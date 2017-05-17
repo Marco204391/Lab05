@@ -27,7 +27,7 @@
                         <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
                      </HBox.margin>
                   </TextField>
-                  <Button fx:id="btnCalcola" mnemonicParsing="false" onAction="#doCalcola" text="Calcola Anagrammi">
+                  <Button fx:id="btnCalcola" mnemonicParsing="false" onAction="#doCalcola" text="Trova anagrammi">
                      <HBox.margin>
                         <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
                      </HBox.margin>
